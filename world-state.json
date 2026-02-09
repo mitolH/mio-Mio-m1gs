@@ -1,26 +1,15 @@
 {
   "day": {
-    "dayNumber": 40,
+    "dayNumber": 41,
     "type": "eventful",
-    "summary": "[day-40] 小病一场 / [刘太公] 听往事 / [刘太公] 听往事 / [刘太公] 听往事 / 午后小憩",
-    "timestamp": 1770660752472
+    "summary": "[day-41] 小病一场 / 小病一场 / 小病一场 / [风行者] 交换见闻 / [风行者] 交换见闻",
+    "timestamp": 1770660756139
   },
   "events": [
     {
       "slot": 0,
       "event": {
-        "id": "evt_1770660752471_922bbb",
-        "category": "daily",
-        "name": "平静的一天",
-        "description": "今天天气晴朗，一切如常。"
-      },
-      "locationId": "loc_9",
-      "impactScore": 5
-    },
-    {
-      "slot": 6,
-      "event": {
-        "id": "evt_1770660752471_2815a0",
+        "id": "evt_1770660756138_58eb20",
         "category": "daily",
         "name": "[刘太公] 听往事",
         "description": "刘太公讲述了清风镇的往事。"
@@ -29,75 +18,42 @@
       "impactScore": 10
     },
     {
-      "slot": 8,
+      "slot": 12,
       "event": {
-        "id": "evt_1770660752471_bb16ef",
+        "id": "evt_1770660756139_cade4e",
         "category": "daily",
-        "name": "[刘太公] 听往事",
-        "description": "刘太公讲述了清风镇的往事。"
+        "name": "小病一场",
+        "description": "感染了风寒，在床上休息了几日。"
       },
       "locationId": "loc_9",
-      "impactScore": 10
+      "impactScore": 15
     },
     {
-      "slot": 11,
+      "slot": 15,
       "event": {
-        "id": "evt_1770660752471_dc6b0c",
+        "id": "evt_1770660756139_49d760",
         "category": "daily",
-        "name": "平静的一天",
-        "description": "今天天气晴朗，一切如常。"
+        "name": "[风行者] 交换见闻",
+        "description": "与风行者分享了各自的经历。"
       },
-      "locationId": "loc_9",
-      "impactScore": 5
+      "locationId": "loc_4",
+      "impactScore": 13
     },
     {
-      "slot": 13,
+      "slot": 16,
       "event": {
-        "id": "evt_1770660752471_f139d9",
+        "id": "evt_1770660756139_696f70",
         "category": "daily",
-        "name": "[刘太公] 听往事",
-        "description": "刘太公讲述了清风镇的往事。"
+        "name": "[张掌柜] 打听消息",
+        "description": "从张掌柜口中听到了一些有趣的消息。"
       },
-      "locationId": "loc_9",
-      "impactScore": 10
+      "locationId": "loc_3",
+      "impactScore": 7
     },
     {
-      "slot": 19,
+      "slot": 18,
       "event": {
-        "id": "evt_1770660752471_f83a67",
-        "category": "daily",
-        "name": "平静的一天",
-        "description": "今天天气晴朗，一切如常。"
-      },
-      "locationId": "loc_16",
-      "impactScore": 5
-    },
-    {
-      "slot": 21,
-      "event": {
-        "id": "evt_1770660752472_ac6b08",
-        "category": "daily",
-        "name": "平静的一天",
-        "description": "今天天气晴朗，一切如常。"
-      },
-      "locationId": "loc_16",
-      "impactScore": 5
-    },
-    {
-      "slot": 23,
-      "event": {
-        "id": "evt_1770660752472_fabcbe",
-        "category": "daily",
-        "name": "午后小憩",
-        "description": "在树荫下打了个盹，精神恢复了不少。"
-      },
-      "locationId": "loc_16",
-      "impactScore": 8
-    },
-    {
-      "slot": 28,
-      "event": {
-        "id": "evt_1770660752472_f9e743",
+        "id": "evt_1770660756139_4a7861",
         "category": "daily",
         "name": "小病一场",
         "description": "感染了风寒，在床上休息了几日。"
@@ -106,20 +62,86 @@
       "impactScore": 15
     },
     {
-      "slot": 29,
+      "slot": 19,
       "event": {
-        "id": "evt_1770660752472_a4c5e3",
+        "id": "evt_1770660756139_e2b3ee",
         "category": "daily",
-        "name": "平静的一天",
-        "description": "今天天气晴朗，一切如常。"
+        "name": "[张掌柜] 打听消息",
+        "description": "从张掌柜口中听到了一些有趣的消息。"
       },
       "locationId": "loc_3",
-      "impactScore": 5
+      "impactScore": 7
+    },
+    {
+      "slot": 20,
+      "event": {
+        "id": "evt_1770660756139_ab487c",
+        "category": "daily",
+        "name": "[张掌柜] 打听消息",
+        "description": "从张掌柜口中听到了一些有趣的消息。"
+      },
+      "locationId": "loc_3",
+      "impactScore": 7
+    },
+    {
+      "slot": 23,
+      "event": {
+        "id": "evt_1770660756139_316d2f",
+        "category": "daily",
+        "name": "[张掌柜] 打听消息",
+        "description": "从张掌柜口中听到了一些有趣的消息。"
+      },
+      "locationId": "loc_3",
+      "impactScore": 7
+    },
+    {
+      "slot": 24,
+      "event": {
+        "id": "evt_1770660756139_8e91ee",
+        "category": "daily",
+        "name": "[陈老板] 听旅人故事",
+        "description": "从客栈老板口中听到了远方旅人的故事。"
+      },
+      "locationId": "loc_4",
+      "impactScore": 8
+    },
+    {
+      "slot": 27,
+      "event": {
+        "id": "evt_1770660756139_cccd7d",
+        "category": "daily",
+        "name": "午后小憩",
+        "description": "在树荫下打了个盹，精神恢复了不少。"
+      },
+      "locationId": "loc_3",
+      "impactScore": 8
+    },
+    {
+      "slot": 30,
+      "event": {
+        "id": "evt_1770660756139_1a94b8",
+        "category": "daily",
+        "name": "[张掌柜] 打听消息",
+        "description": "从张掌柜口中听到了一些有趣的消息。"
+      },
+      "locationId": "loc_3",
+      "impactScore": 7
     },
     {
       "slot": 31,
       "event": {
-        "id": "evt_1770660752472_71dd45",
+        "id": "evt_1770660756139_14a9d4",
+        "category": "daily",
+        "name": "小病一场",
+        "description": "感染了风寒，在床上休息了几日。"
+      },
+      "locationId": "loc_3",
+      "impactScore": 15
+    },
+    {
+      "slot": 31,
+      "event": {
+        "id": "evt_1770660756139_f9d899",
         "category": "daily",
         "name": "[张掌柜] 打听消息",
         "description": "从张掌柜口中听到了一些有趣的消息。"
@@ -128,9 +150,20 @@
       "impactScore": 7
     },
     {
-      "slot": 32,
+      "slot": 37,
       "event": {
-        "id": "evt_1770660752472_779391",
+        "id": "evt_1770660756139_b24740",
+        "category": "daily",
+        "name": "[风行者] 交换见闻",
+        "description": "与风行者分享了各自的经历。"
+      },
+      "locationId": "loc_4",
+      "impactScore": 13
+    },
+    {
+      "slot": 39,
+      "event": {
+        "id": "evt_1770660756139_a0ab97",
         "category": "daily",
         "name": "平静的一天",
         "description": "今天天气晴朗，一切如常。"
@@ -139,9 +172,9 @@
       "impactScore": 5
     },
     {
-      "slot": 33,
+      "slot": 39,
       "event": {
-        "id": "evt_1770660752472_68de6c",
+        "id": "evt_1770660756139_41f17e",
         "category": "daily",
         "name": "[张掌柜] 打听消息",
         "description": "从张掌柜口中听到了一些有趣的消息。"
@@ -150,26 +183,26 @@
       "impactScore": 7
     },
     {
-      "slot": 40,
+      "slot": 45,
       "event": {
-        "id": "evt_1770660752472_bfd540",
+        "id": "evt_1770660756139_fd7c47",
         "category": "daily",
-        "name": "[张掌柜] 打听消息",
-        "description": "从张掌柜口中听到了一些有趣的消息。"
+        "name": "[刘太公] 听往事",
+        "description": "刘太公讲述了清风镇的往事。"
       },
-      "locationId": "loc_3",
-      "impactScore": 7
+      "locationId": "loc_9",
+      "impactScore": 10
     },
     {
-      "slot": 41,
+      "slot": 47,
       "event": {
-        "id": "evt_1770660752472_03a4e9",
+        "id": "evt_1770660756139_66ceda",
         "category": "daily",
-        "name": "[张掌柜] 打听消息",
-        "description": "从张掌柜口中听到了一些有趣的消息。"
+        "name": "[刘太公] 听往事",
+        "description": "刘太公讲述了清风镇的往事。"
       },
-      "locationId": "loc_3",
-      "impactScore": 7
+      "locationId": "loc_9",
+      "impactScore": 10
     }
   ],
   "movements": [
@@ -181,11 +214,11 @@
     {
       "slot": 16,
       "fromLocationId": "loc_4",
-      "toLocationId": "loc_16"
+      "toLocationId": "loc_3"
     },
     {
       "slot": 24,
-      "fromLocationId": "loc_16",
+      "fromLocationId": "loc_3",
       "toLocationId": "loc_4"
     },
     {
@@ -223,7 +256,7 @@
     "lifestyle": "child"
   },
   "world": {
-    "turn": 40,
+    "turn": 41,
     "relationships": [],
     "flags": []
   }
