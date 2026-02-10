@@ -1,459 +1,404 @@
 {
   "day": {
-    "dayNumber": 55,
+    "dayNumber": 56,
     "type": "eventful",
-    "summary": "[day-55] 小病一场 / [王先生] 请教学问 / [王先生] 请教学问 / [王先生] 请教学问 / [王先生] 请教学问",
-    "timestamp": 1770737231696
+    "summary": "[day-56] [风行者] 交换见闻 / [风行者] 交换见闻 / [刘太公] 听往事 / 午后小憩 / [王先生] 请教学问",
+    "timestamp": 1770737282892
   },
   "events": [
     {
       "slot": 6,
       "event": {
-        "id": "npc_npc_2_5",
+        "id": "npc_npc_7_5",
         "category": "daily",
-        "name": "[王先生] 请教学问",
-        "description": "王先生耐心地解答了心中的疑惑。"
+        "name": "[刘太公] 听往事",
+        "description": "刘太公讲述了清风镇的往事。"
       },
-      "locationId": "loc_6",
-      "impactScore": 8
-    },
-    {
-      "slot": 7,
-      "event": {
-        "id": "npc_npc_2_6",
-        "category": "daily",
-        "name": "[王先生] 请教学问",
-        "description": "王先生耐心地解答了心中的疑惑。"
-      },
-      "locationId": "loc_6",
-      "impactScore": 8
-    },
-    {
-      "slot": 8,
-      "event": {
-        "id": "npc_npc_2_7",
-        "category": "daily",
-        "name": "[王先生] 请教学问",
-        "description": "王先生耐心地解答了心中的疑惑。"
-      },
-      "locationId": "loc_6",
-      "impactScore": 8
-    },
-    {
-      "slot": 9,
-      "event": {
-        "id": "npc_npc_2_8",
-        "category": "daily",
-        "name": "[王先生] 请教学问",
-        "description": "王先生耐心地解答了心中的疑惑。"
-      },
-      "locationId": "loc_6",
-      "impactScore": 8
+      "locationId": "loc_9",
+      "impactScore": 10
     },
     {
       "slot": 10,
       "event": {
-        "id": "npc_npc_2_9",
+        "id": "npc_npc_3_9",
         "category": "daily",
-        "name": "[王先生] 请教学问",
-        "description": "王先生耐心地解答了心中的疑惑。"
+        "name": "[赵捕头] 报告情况",
+        "description": "向赵捕头汇报了最近镇上的异常情况。"
       },
-      "locationId": "loc_6",
-      "impactScore": 8
+      "locationId": "loc_5",
+      "impactScore": 5
     },
     {
       "slot": 11,
       "event": {
-        "id": "npc_npc_2_10",
+        "id": "npc_npc_3_10",
         "category": "daily",
-        "name": "[王先生] 请教学问",
-        "description": "王先生耐心地解答了心中的疑惑。"
+        "name": "[赵捕头] 报告情况",
+        "description": "向赵捕头汇报了最近镇上的异常情况。"
       },
-      "locationId": "loc_6",
-      "impactScore": 8
+      "locationId": "loc_5",
+      "impactScore": 5
     },
     {
       "slot": 12,
       "event": {
-        "id": "npc_npc_2_11",
+        "id": "npc_npc_3_11",
         "category": "daily",
-        "name": "[王先生] 请教学问",
-        "description": "王先生耐心地解答了心中的疑惑。"
+        "name": "[赵捕头] 闲谈治安",
+        "description": "赵捕头提醒最近镇外不太平，要小心。"
       },
-      "locationId": "loc_6",
-      "impactScore": 8
+      "locationId": "loc_5",
+      "impactScore": 2
     },
     {
       "slot": 13,
       "event": {
-        "id": "npc_npc_2_12",
+        "id": "npc_npc_3_12",
         "category": "daily",
-        "name": "[王先生] 请教学问",
-        "description": "王先生耐心地解答了心中的疑惑。"
+        "name": "[赵捕头] 报告情况",
+        "description": "向赵捕头汇报了最近镇上的异常情况。"
       },
-      "locationId": "loc_6",
-      "impactScore": 8
+      "locationId": "loc_5",
+      "impactScore": 5
     },
     {
       "slot": 14,
       "event": {
-        "id": "npc_npc_2_13",
+        "id": "npc_npc_3_13",
         "category": "daily",
-        "name": "[王先生] 请教学问",
-        "description": "王先生耐心地解答了心中的疑惑。"
+        "name": "[赵捕头] 闲谈治安",
+        "description": "赵捕头提醒最近镇外不太平，要小心。"
       },
-      "locationId": "loc_6",
-      "impactScore": 8
+      "locationId": "loc_5",
+      "impactScore": 2
     },
     {
       "slot": 15,
       "event": {
-        "id": "npc_npc_2_14",
+        "id": "npc_npc_3_14",
         "category": "daily",
-        "name": "[王先生] 请教学问",
-        "description": "王先生耐心地解答了心中的疑惑。"
+        "name": "[赵捕头] 闲谈治安",
+        "description": "赵捕头提醒最近镇外不太平，要小心。"
       },
-      "locationId": "loc_6",
-      "impactScore": 8
-    },
-    {
-      "slot": 16,
-      "event": {
-        "id": "npc_npc_2_15",
-        "category": "daily",
-        "name": "[王先生] 请教学问",
-        "description": "王先生耐心地解答了心中的疑惑。"
-      },
-      "locationId": "loc_6",
-      "impactScore": 8
+      "locationId": "loc_5",
+      "impactScore": 2
     },
     {
       "slot": 17,
       "event": {
-        "id": "npc_npc_2_16",
+        "id": "npc_npc_6_16",
         "category": "daily",
-        "name": "[王先生] 请教学问",
-        "description": "王先生耐心地解答了心中的疑惑。"
+        "name": "[风行者] 交换见闻",
+        "description": "与风行者分享了各自的经历。"
       },
-      "locationId": "loc_6",
-      "impactScore": 8
+      "locationId": "loc_4",
+      "impactScore": 13
     },
     {
       "slot": 18,
       "event": {
-        "id": "npc_npc_2_17",
+        "id": "npc_npc_6_17",
         "category": "daily",
-        "name": "[王先生] 请教学问",
-        "description": "王先生耐心地解答了心中的疑惑。"
+        "name": "[风行者] 交换见闻",
+        "description": "与风行者分享了各自的经历。"
       },
-      "locationId": "loc_6",
-      "impactScore": 8
-    },
-    {
-      "slot": 19,
-      "event": {
-        "id": "npc_npc_2_18",
-        "category": "daily",
-        "name": "[王先生] 请教学问",
-        "description": "王先生耐心地解答了心中的疑惑。"
-      },
-      "locationId": "loc_6",
-      "impactScore": 8
-    },
-    {
-      "slot": 20,
-      "event": {
-        "id": "npc_npc_2_19",
-        "category": "daily",
-        "name": "[王先生] 请教学问",
-        "description": "王先生耐心地解答了心中的疑惑。"
-      },
-      "locationId": "loc_6",
-      "impactScore": 8
-    },
-    {
-      "slot": 21,
-      "event": {
-        "id": "npc_npc_2_20",
-        "category": "daily",
-        "name": "[王先生] 请教学问",
-        "description": "王先生耐心地解答了心中的疑惑。"
-      },
-      "locationId": "loc_6",
-      "impactScore": 8
+      "locationId": "loc_4",
+      "impactScore": 13
     },
     {
       "slot": 22,
       "event": {
-        "id": "npc_npc_2_21",
+        "id": "evt_1770737267279_e42eb6",
         "category": "daily",
-        "name": "[王先生] 请教学问",
-        "description": "王先生耐心地解答了心中的疑惑。"
+        "name": "午后小憩",
+        "description": "在树荫下打了个盹，精神恢复了不少。"
       },
-      "locationId": "loc_6",
+      "locationId": "loc_13",
       "impactScore": 8
     },
     {
       "slot": 23,
       "event": {
-        "id": "evt_1770737200012_86baf0",
+        "id": "npc_npc_8_22",
         "category": "daily",
-        "name": "平静的一天",
-        "description": "今天天气晴朗，一切如常。"
+        "name": "[黑影] 惊险逃脱",
+        "description": "发现山贼踪迹，幸好及时逃离。"
       },
-      "locationId": "loc_3",
-      "impactScore": 5
+      "locationId": "loc_13",
+      "impactScore": 7
     },
     {
       "slot": 24,
       "event": {
-        "id": "evt_1770737201888_183a17",
+        "id": "npc_npc_8_23",
         "category": "daily",
-        "name": "小病一场",
-        "description": "感染了风寒，在床上休息了几日。"
+        "name": "[黑影] 惊险逃脱",
+        "description": "发现山贼踪迹，幸好及时逃离。"
       },
-      "locationId": "loc_3",
-      "impactScore": 15
+      "locationId": "loc_13",
+      "impactScore": 7
     },
     {
       "slot": 25,
       "event": {
-        "id": "npc_npc_1_24",
+        "id": "npc_npc_8_24",
         "category": "daily",
-        "name": "[张掌柜] 打听消息",
-        "description": "从张掌柜口中听到了一些有趣的消息。"
+        "name": "[黑影] 惊险逃脱",
+        "description": "发现山贼踪迹，幸好及时逃离。"
       },
-      "locationId": "loc_3",
+      "locationId": "loc_13",
       "impactScore": 7
     },
     {
       "slot": 26,
       "event": {
-        "id": "npc_npc_1_25",
+        "id": "npc_npc_8_25",
         "category": "daily",
-        "name": "[张掌柜] 打听消息",
-        "description": "从张掌柜口中听到了一些有趣的消息。"
+        "name": "[黑影] 惊险逃脱",
+        "description": "发现山贼踪迹，幸好及时逃离。"
       },
-      "locationId": "loc_3",
+      "locationId": "loc_13",
       "impactScore": 7
     },
     {
       "slot": 27,
       "event": {
-        "id": "evt_1770737203671_cdb4ea",
+        "id": "npc_npc_8_26",
         "category": "daily",
-        "name": "平静的一天",
-        "description": "今天天气晴朗，一切如常。"
+        "name": "[黑影] 惊险逃脱",
+        "description": "发现山贼踪迹，幸好及时逃离。"
       },
-      "locationId": "loc_3",
-      "impactScore": 5
+      "locationId": "loc_13",
+      "impactScore": 7
+    },
+    {
+      "slot": 28,
+      "event": {
+        "id": "npc_npc_8_27",
+        "category": "daily",
+        "name": "[黑影] 惊险逃脱",
+        "description": "发现山贼踪迹，幸好及时逃离。"
+      },
+      "locationId": "loc_13",
+      "impactScore": 7
+    },
+    {
+      "slot": 29,
+      "event": {
+        "id": "npc_npc_8_28",
+        "category": "daily",
+        "name": "[黑影] 惊险逃脱",
+        "description": "发现山贼踪迹，幸好及时逃离。"
+      },
+      "locationId": "loc_13",
+      "impactScore": 7
+    },
+    {
+      "slot": 30,
+      "event": {
+        "id": "npc_npc_8_29",
+        "category": "daily",
+        "name": "[黑影] 惊险逃脱",
+        "description": "发现山贼踪迹，幸好及时逃离。"
+      },
+      "locationId": "loc_13",
+      "impactScore": 7
+    },
+    {
+      "slot": 31,
+      "event": {
+        "id": "npc_npc_8_30",
+        "category": "daily",
+        "name": "[黑影] 惊险逃脱",
+        "description": "发现山贼踪迹，幸好及时逃离。"
+      },
+      "locationId": "loc_13",
+      "impactScore": 7
     },
     {
       "slot": 32,
       "event": {
-        "id": "npc_npc_1_31",
+        "id": "npc_npc_8_31",
         "category": "daily",
-        "name": "[张掌柜] 打听消息",
-        "description": "从张掌柜口中听到了一些有趣的消息。"
+        "name": "[黑影] 惊险逃脱",
+        "description": "发现山贼踪迹，幸好及时逃离。"
       },
-      "locationId": "loc_3",
+      "locationId": "loc_13",
       "impactScore": 7
     },
     {
       "slot": 33,
       "event": {
-        "id": "npc_npc_1_32",
+        "id": "npc_npc_8_32",
         "category": "daily",
-        "name": "[张掌柜] 打听消息",
-        "description": "从张掌柜口中听到了一些有趣的消息。"
+        "name": "[黑影] 惊险逃脱",
+        "description": "发现山贼踪迹，幸好及时逃离。"
       },
-      "locationId": "loc_3",
+      "locationId": "loc_13",
       "impactScore": 7
     },
     {
       "slot": 34,
       "event": {
-        "id": "npc_npc_1_33",
+        "id": "npc_npc_8_33",
         "category": "daily",
-        "name": "[张掌柜] 打听消息",
-        "description": "从张掌柜口中听到了一些有趣的消息。"
+        "name": "[黑影] 惊险逃脱",
+        "description": "发现山贼踪迹，幸好及时逃离。"
       },
-      "locationId": "loc_3",
+      "locationId": "loc_13",
       "impactScore": 7
     },
     {
       "slot": 35,
       "event": {
-        "id": "npc_npc_1_34",
+        "id": "npc_npc_8_34",
         "category": "daily",
-        "name": "[张掌柜] 打听消息",
-        "description": "从张掌柜口中听到了一些有趣的消息。"
+        "name": "[黑影] 惊险逃脱",
+        "description": "发现山贼踪迹，幸好及时逃离。"
       },
-      "locationId": "loc_3",
+      "locationId": "loc_13",
       "impactScore": 7
     },
     {
       "slot": 36,
       "event": {
-        "id": "npc_npc_1_35",
+        "id": "npc_npc_8_35",
         "category": "daily",
-        "name": "[张掌柜] 打听消息",
-        "description": "从张掌柜口中听到了一些有趣的消息。"
+        "name": "[黑影] 惊险逃脱",
+        "description": "发现山贼踪迹，幸好及时逃离。"
       },
-      "locationId": "loc_3",
+      "locationId": "loc_13",
       "impactScore": 7
     },
     {
       "slot": 37,
       "event": {
-        "id": "npc_npc_1_36",
+        "id": "npc_npc_8_36",
         "category": "daily",
-        "name": "[张掌柜] 打听消息",
-        "description": "从张掌柜口中听到了一些有趣的消息。"
+        "name": "[黑影] 惊险逃脱",
+        "description": "发现山贼踪迹，幸好及时逃离。"
       },
-      "locationId": "loc_3",
+      "locationId": "loc_13",
       "impactScore": 7
     },
     {
       "slot": 38,
       "event": {
-        "id": "evt_1770737205914_00f96f",
+        "id": "npc_npc_8_37",
         "category": "daily",
-        "name": "午后小憩",
-        "description": "在树荫下打了个盹，精神恢复了不少。"
+        "name": "[黑影] 惊险逃脱",
+        "description": "发现山贼踪迹，幸好及时逃离。"
       },
-      "locationId": "loc_3",
-      "impactScore": 8
+      "locationId": "loc_13",
+      "impactScore": 7
+    },
+    {
+      "slot": 39,
+      "event": {
+        "id": "npc_npc_8_38",
+        "category": "daily",
+        "name": "[黑影] 惊险逃脱",
+        "description": "发现山贼踪迹，幸好及时逃离。"
+      },
+      "locationId": "loc_13",
+      "impactScore": 7
+    },
+    {
+      "slot": 40,
+      "event": {
+        "id": "npc_npc_8_39",
+        "category": "daily",
+        "name": "[黑影] 惊险逃脱",
+        "description": "发现山贼踪迹，幸好及时逃离。"
+      },
+      "locationId": "loc_13",
+      "impactScore": 7
     },
     {
       "slot": 41,
       "event": {
-        "id": "evt_1770737206461_cc30d9",
+        "id": "npc_npc_8_40",
         "category": "daily",
-        "name": "平静的一天",
-        "description": "今天天气晴朗，一切如常。"
+        "name": "[黑影] 惊险逃脱",
+        "description": "发现山贼踪迹，幸好及时逃离。"
       },
-      "locationId": "loc_3",
-      "impactScore": 5
-    },
-    {
-      "slot": 43,
-      "event": {
-        "id": "npc_npc_1_42",
-        "category": "daily",
-        "name": "[张掌柜] 打听消息",
-        "description": "从张掌柜口中听到了一些有趣的消息。"
-      },
-      "locationId": "loc_3",
+      "locationId": "loc_13",
       "impactScore": 7
     },
     {
-      "slot": 44,
+      "slot": 42,
       "event": {
-        "id": "npc_npc_1_43",
+        "id": "npc_npc_8_41",
         "category": "daily",
-        "name": "[张掌柜] 打听消息",
-        "description": "从张掌柜口中听到了一些有趣的消息。"
+        "name": "[黑影] 惊险逃脱",
+        "description": "发现山贼踪迹，幸好及时逃离。"
       },
-      "locationId": "loc_3",
+      "locationId": "loc_13",
       "impactScore": 7
+    },
+    {
+      "slot": 46,
+      "event": {
+        "id": "npc_npc_2_45",
+        "category": "daily",
+        "name": "[王先生] 请教学问",
+        "description": "王先生耐心地解答了心中的疑惑。"
+      },
+      "locationId": "loc_6",
+      "impactScore": 8
+    },
+    {
+      "slot": 47,
+      "event": {
+        "id": "npc_npc_2_46",
+        "category": "daily",
+        "name": "[王先生] 请教学问",
+        "description": "王先生耐心地解答了心中的疑惑。"
+      },
+      "locationId": "loc_6",
+      "impactScore": 8
     }
   ],
   "movements": [
     {
       "slot": 0,
-      "fromLocationId": "loc_3",
-      "toLocationId": "loc_4"
+      "fromLocationId": "loc_24",
+      "toLocationId": "loc_23"
     },
     {
       "slot": 1,
-      "fromLocationId": "loc_4",
-      "toLocationId": "loc_5"
+      "fromLocationId": "loc_23",
+      "toLocationId": "loc_23"
     },
     {
       "slot": 2,
-      "fromLocationId": "loc_5",
+      "fromLocationId": "loc_23",
+      "toLocationId": "loc_9"
+    },
+    {
+      "slot": 6,
+      "fromLocationId": "loc_9",
       "toLocationId": "loc_5"
     },
     {
-      "slot": 3,
+      "slot": 15,
       "fromLocationId": "loc_5",
-      "toLocationId": "loc_7"
-    },
-    {
-      "slot": 4,
-      "fromLocationId": "loc_7",
-      "toLocationId": "loc_6"
-    },
-    {
-      "slot": 22,
-      "fromLocationId": "loc_6",
-      "toLocationId": "loc_3"
-    },
-    {
-      "slot": 23,
-      "fromLocationId": "loc_3",
-      "toLocationId": "loc_3"
-    },
-    {
-      "slot": 26,
-      "fromLocationId": "loc_3",
-      "toLocationId": "loc_3"
-    },
-    {
-      "slot": 27,
-      "fromLocationId": "loc_3",
-      "toLocationId": "loc_3"
-    },
-    {
-      "slot": 28,
-      "fromLocationId": "loc_3",
-      "toLocationId": "loc_3"
-    },
-    {
-      "slot": 29,
-      "fromLocationId": "loc_3",
-      "toLocationId": "loc_3"
-    },
-    {
-      "slot": 30,
-      "fromLocationId": "loc_3",
-      "toLocationId": "loc_3"
-    },
-    {
-      "slot": 37,
-      "fromLocationId": "loc_3",
-      "toLocationId": "loc_3"
-    },
-    {
-      "slot": 38,
-      "fromLocationId": "loc_3",
-      "toLocationId": "loc_3"
-    },
-    {
-      "slot": 39,
-      "fromLocationId": "loc_3",
-      "toLocationId": "loc_3"
-    },
-    {
-      "slot": 40,
-      "fromLocationId": "loc_3",
-      "toLocationId": "loc_3"
-    },
-    {
-      "slot": 41,
-      "fromLocationId": "loc_3",
-      "toLocationId": "loc_3"
-    },
-    {
-      "slot": 44,
-      "fromLocationId": "loc_3",
       "toLocationId": "loc_4"
     },
     {
-      "slot": 45,
+      "slot": 18,
       "fromLocationId": "loc_4",
-      "toLocationId": "loc_24"
+      "toLocationId": "loc_14"
+    },
+    {
+      "slot": 21,
+      "fromLocationId": "loc_14",
+      "toLocationId": "loc_13"
+    },
+    {
+      "slot": 42,
+      "fromLocationId": "loc_13",
+      "toLocationId": "loc_6"
     }
   ],
   "character": {
@@ -461,16 +406,16 @@
     "age": 1,
     "state": "growth",
     "attributes": {
-      "health": 5,
-      "mood": 100,
+      "health": 0,
+      "mood": 10,
       "social": 100,
       "wealth": 0
     },
-    "currentLocationId": "loc_24",
+    "currentLocationId": "loc_6",
     "lifestyle": "child"
   },
   "world": {
-    "turn": 55,
+    "turn": 56,
     "relationships": [],
     "flags": []
   }
